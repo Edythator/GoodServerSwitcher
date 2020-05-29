@@ -1,2 +1,5 @@
 # GoodServerSwitcher
-a very simple osu private server switcher made in WinForms
+
+A very simple tool that switches in between osu! servers.
+
+Licensed under MIT.
